@@ -70,7 +70,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoVbsz}/count.svg" /></p> 
 <br></div>
 
-<img align="center" src="./img-github.png" alt="png-perfil" width="550px" />
+<img align="center" src="./img-github.png" alt="png-perfil" width="100%" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
