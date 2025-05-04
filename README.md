@@ -3,21 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32a8a2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Vitor+Souza;I+study+analysis+and+systems+development+at+UCSal;I'm+20+years+old!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoVbsz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João vitor Souza github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVbsz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoVbsz&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-<div align="center">  
-    <a href="https://www.linkedin.com/in/jo%C3%A3ovitorbsouza/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-</div>
- 
+---
 ### Main skills: <br>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
