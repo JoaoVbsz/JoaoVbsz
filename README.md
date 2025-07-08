@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32a887&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a192f,112240,64ffda&height=120&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32a8a2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Vitor+Souza;I+study+analysis+and+systems+development+at+UCSal;I'm+21+years+old!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0E0E0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Vitor+Souza;I+study+software+engineering+at+UCSal;I'm+21+years+old!+:%29)](https://git.io/typing-svg)
 
 ---
 ### Main skills: <br>
@@ -57,5 +56,4 @@
 
 <img align="center" src="./img-github.png" alt="png-perfil" width="100%" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a192f,112240,64ffda&height=120&section=footer"/>
