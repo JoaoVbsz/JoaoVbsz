@@ -36,8 +36,6 @@
 
 <img align="left" alt="CSS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-<img align="left" alt="Python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
 <br>
 
 ### Studying in this moment:
