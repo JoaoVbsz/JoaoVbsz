@@ -1,4 +1,4 @@
-l<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32a887&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32a887&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32a8a2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Vitor+Souza;I+study+analysis+and+systems+development+at+UCSal;I'm+21+years+old!+:%29)](https://git.io/typing-svg) 
@@ -47,8 +47,12 @@ l<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32
 
 <img align="left" alt="Python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<img align="left" alt="Java" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Pandas" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 
+<img align="left" alt="Seaborn" width="60px" style="padding-right:15px;" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
+
+<br>
+<br>
 <br>
 
 <img align="center" src="./img-github.png" alt="png-perfil" width="100%" />
