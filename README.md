@@ -46,7 +46,7 @@
 
 <img align="left" alt="Pandas" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 
-<img align="left" alt="openpyxl" width="60px" style="padding-right:15px;" src="https://openpyxl.readthedocs.io/en/stable/_static/openpyxl.png" />
+<img align="left" alt="openpyxl" width="60px" style="padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" />
 
 <img align="left" alt="Seaborn" width="60px" style="padding-right:15px;" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 
