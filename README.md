@@ -4,54 +4,41 @@
 
 ---
 ### Main skills: <br>
-<img align="left" alt="Python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<img align="left" alt="NodeJS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-
-<img align="left" alt="Java" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,java,postgres)](https://skillicons.dev)
 
 <br>
   
 ### Tools: <br>
 
-
-<img align="left" alt="Eclipse" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-
-<img align="left" alt="VS Code" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="Linux" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-<img align="left" alt="Windows" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,git,github,linux,windows)](https://skillicons.dev)
+<br>
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 <br>
- 
+
 ### Other Knowledge: <br>
-
-<img align="left" alt="HTML" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-
-<img align="left" alt="CSS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 <br>
 
 ### Studying in this moment:
-
-<img align="left" alt="NodeJS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-
-<img align="left" alt="Python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img align="left" alt="Pandas" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-
-<img align="left" alt="Seaborn" width="60px" style="padding-right:15px;" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs)](https://skillicons.dev)
+<br>
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 
 <br>
-<br>
-<br>
 
-<img align="center" src="./img-github.png" alt="png-perfil" width="100%" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120" alt="Hollow Knight GIF" style="margin-right: auto;" />
+  <a href="https://www.linkedin.com/in/joaovitorbsouza/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a192f,112240,64ffda&height=120&section=footer"/>
