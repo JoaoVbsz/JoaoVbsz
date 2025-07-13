@@ -34,7 +34,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120" alt="Hollow Knight GIF" style="margin-right: auto;" />
-  <a href="www.linkedin.com/in/joãovitorbsouza">
+  <a href="https://www.linkedin.com/in/joãovitorbsouza" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
