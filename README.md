@@ -16,7 +16,7 @@ course = "Software Engineering"
 location = "Brazil"
 focus = "Back-end developer"
 currently_learning = ["Java", "Python", "Node.js", "JavaScipt"]
-hobbies = ["Gaming", "Coding", "Learning New Technologies, train"]
+hobbies = ["Gaming", "Coding", "Learning New Technologies", "train"]
 ```
 <br>
 <br>
