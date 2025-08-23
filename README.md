@@ -20,6 +20,7 @@ hobbies = ["Gaming", "Coding", "Learning New Technologies, train"]
 ```
 <br>
 <br>
+<br>
 
 
 ## 🛠️ Tech Stack
