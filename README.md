@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 
-```python
+```Python
 name = "João Vitor Souza"
 age = 21
 university = "UCSal (Universidade Católica do Salvador)"
@@ -72,11 +72,6 @@ hobbies = ["Gaming", "Coding", "Learning New Technologies", "train"]
 
 
 ## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVbsz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVbsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVbsz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff"/>
