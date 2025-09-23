@@ -71,20 +71,6 @@ hobbies = ["Gaming", "Coding", "Learning New Technologies", "train"]
 
 ---
 
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVbsz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVbsz&theme=tokyonight&hide_border=true&background=0d1117"/>
-</div>
-
----
-
-
 ## 📫 Let's Connect!
 
 <div align="center">
