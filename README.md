@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26"/> About Me
 
 
 ```Python
@@ -21,8 +21,8 @@ hobbies = ["Gaming", "Coding", "Learning New Technologies", "train"]
 <br>
 <br>
 
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="26"/> Tech Stack
 
-## 🛠️ Tech Stack
 
 <div align="center">
 
