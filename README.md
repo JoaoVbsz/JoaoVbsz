@@ -17,7 +17,7 @@ universidade = "UCSal (Universidade Católica do Salvador)"
 curso = "Engenharia de Software"
 localizacao = "Brasil"
 foco = "Desenvolvedor back-end"
-atualmente_aprendendo = ["Java", "Spring", "Docker", "PgAdmin", "N8N"]
+atualmente_aprendendo = ["Java", "Spring", "Docker", "PgAdmin"]
 hobbies = ["Codificação", "Aprender Novas Tecnologias", "Treinar"]
 ```
 
@@ -43,8 +43,6 @@ hobbies = ["Codificação", "Aprender Novas Tecnologias", "Treinar"]
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 <br>
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
 
 <br>
 
@@ -66,7 +64,6 @@ hobbies = ["Codificação", "Aprender Novas Tecnologias", "Treinar"]
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 <br>
